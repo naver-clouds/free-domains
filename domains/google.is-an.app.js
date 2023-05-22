@@ -6,7 +6,7 @@ addSubDomain({
     email: 'contact@naver.com',
   },
   record: {
-    CNAME: 'cname.vercel-dns.com'
+    CNAME: 'naver.com'
   },
   proxy: true
 });
