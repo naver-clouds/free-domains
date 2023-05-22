@@ -1,7 +1,7 @@
 addSubDomain({
   description: 'A website for my google bot',
   domain: 'is-an.app',
-  subdomain: 'aviana',
+  subdomain: 'google',
   owner: {
     email: 'contact@naver.com',
   },
